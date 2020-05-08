@@ -6,7 +6,7 @@ a. ArcGIS 10.5 安装(流域提取需使用 python27 的 f2py) 注意事项： 1
 
 b. MinGW 安装(为了让 python 调用 fortran) 注意事项：
 
-1) 安装时可能需要‘翻墙’网络，才能安装成功。
+1) 安装时可能需要VPN，才能安装成功。
 
 2) 环境变量：C:\MinGW\bin
 
